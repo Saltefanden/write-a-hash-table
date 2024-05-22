@@ -53,7 +53,7 @@ hash = 5
 Changing the value of `a` give us a different hash function.
 
 ```
-hash("cat", 163, 53) = 3
+hash("cat", 163, 53) = 21
 ```
 
 ## Implementation
